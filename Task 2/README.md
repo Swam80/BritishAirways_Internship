@@ -14,8 +14,10 @@
 
 # Model Summary
 * ![](https://github.com/Swam80/BritishAirways_Internship/blob/main/Task%202/Predicitve%20Model%20Results.jpg)
-* ROC curve ![image](https://github.com/Swam80/BritishAirways_Internship/assets/42047546/1b7480a3-7e13-4349-a98d-0f5365252c5e)
+* ROC curve
+![image](https://github.com/Swam80/BritishAirways_Internship/assets/42047546/1b7480a3-7e13-4349-a98d-0f5365252c5e)
 
 
 # Conclusion
-Model performance is poor, maybe a bit more balanced dataset would improve the performance.
+* In general Model performance is poor, maybe a bit more balanced dataset would improve the performance. Althought, compared to default models hyperparameter tuning di better.
+  
