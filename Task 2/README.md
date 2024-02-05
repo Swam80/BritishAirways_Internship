@@ -8,7 +8,7 @@
 
 # Dataset
 * Highly imbalanced dataset
-* ![image](https://github.com/Swam80/BritishAirways_Internship/assets/42047546/51b73c78-3fbb-487f-8caf-6e2dcb79a536)
+![image](https://github.com/Swam80/BritishAirways_Internship/assets/42047546/51b73c78-3fbb-487f-8caf-6e2dcb79a536)
 * Used SMOTE to handle imbalance
 
 
