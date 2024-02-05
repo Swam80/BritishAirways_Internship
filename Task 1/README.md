@@ -14,4 +14,4 @@
 * Fine tuned DistilBERT Transformer from Hugging Face.
 
 # Insights :
-![](https://github.com/Swam80/BritishAirways_Internship/blob/main/Slide2.JPG)
+* ![](https://github.com/Swam80/BritishAirways_Internship/blob/main/Slide2.JPG)
