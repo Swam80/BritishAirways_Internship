@@ -11,7 +11,7 @@
 # Strategies used :
 * Beautiful Soup for Webscrapping.
 * VADER, TextBlob and DistilBERT from hugging face was used for Sentiment Analysis.
-* Fine tuned DistilBERT Transformer from Hugging Face.
+* Fine tuned DistilBERT Transformer from Hugging Face and overturned the limitation of a single text being under 512 tokens. Used the strategy of dividng the text into chunks and then feeding to the transformer.
 
 # Insights :
 * For detailed insights, refer [Basic EDA](https://github.com/Swam80/BritishAirways_Internship/blob/main/Task%201/Basic%20EDA.ipynb) and [Sentiment Analysis](https://github.com/Swam80/BritishAirways_Internship/blob/main/Task%201/Sentiment_Analysis.ipynb)
