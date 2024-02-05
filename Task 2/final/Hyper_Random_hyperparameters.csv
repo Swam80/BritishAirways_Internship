@@ -1,5 +1,0 @@
-,RandomForestClassifier,ExtraTreesClassifier
-n_estimators,"[50, 100, 150, 200, 250]","[50, 100, 150, 200, 250]"
-max_depth,"[2, 4, 6, 8]","[2, 4, 6, 8]"
-min_samples_split,"[2, 3, 4, 5, 6, 7]","[2, 3, 4, 5, 6, 7]"
-min_samples_leaf,"[2, 3, 4, 5, 6, 7]","[2, 3, 4, 5, 6, 7]"
