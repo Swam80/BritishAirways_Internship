@@ -1,0 +1,5 @@
+,RandomForestClassifier,ExtraTreesClassifier
+n_estimators,150,100
+min_samples_split,6,2
+min_samples_leaf,7,2
+max_depth,8,8
