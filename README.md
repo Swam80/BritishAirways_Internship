@@ -1,4 +1,4 @@
-# BritishAirways_Internship
+# Forage - British Airways Virtual Internship
 
 * It’s an exciting time to be at British Airways. We’re growing our global route network, investing in our fleet and transforming the experience we offer customers. We are a 24-hour business, operating 365 days of the year, all around the world. It’s a dynamic, fast-paced environment that will bring out the best in you – if you’re ready to embrace responsibility and step up to any challenge. Wherever you join us, you’ll feel proud to play a part in our future as we go further to be the airline of choice. 
 
@@ -9,3 +9,6 @@
 # Tasks Performed
 * In task one, Customer Review Analysis and Sentiment Analysis was done by webscrapping reviews.
 * In task two, predictive modelling was performed using Machine Learning models to predict customer bookings.
+
+# Certificate
+![](https://github.com/Swam80/BritishAirways_Internship/blob/main/Certificate.JPG)
