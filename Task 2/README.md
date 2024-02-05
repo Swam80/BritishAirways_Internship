@@ -18,5 +18,6 @@
 
 
 # Conclusion
-* In general Model performance is poor, maybe a bit more balanced dataset would improve the performance. Althought, compared to default models hyperparameter tuning di better.
+* In general Model performance is poor, maybe a bit more balanced dataset would improve the performance. Althought, compared to default models hyperparameter tuning did better.
+* For more insights check [Model trainer Notebook](https://github.com/Swam80/BritishAirways_Internship/blob/main/Task%202/Final_colab_nb/Model_trainer_BAforage.ipynb)
   
