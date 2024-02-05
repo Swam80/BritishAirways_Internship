@@ -13,8 +13,8 @@
 
 
 # Model Summary
-* ![](https://github.com/Swam80/BritishAirways_Internship/blob/main/Task%202/Predicitve%20Model%20Results.jpg)
-* ROC curve
+![](https://github.com/Swam80/BritishAirways_Internship/blob/main/Task%202/Predicitve%20Model%20Results.jpg)
+* ROC curve \n
 ![image](https://github.com/Swam80/BritishAirways_Internship/assets/42047546/1b7480a3-7e13-4349-a98d-0f5365252c5e)
 
 
