@@ -7,3 +7,11 @@
 * Customers who book a flight with BA will experience many interaction points with the BA brand. Understanding a customer's feelings, needs, and feedback is crucial for any business, including BA.
 
 * This first task is focused on scraping and collecting customer feedback and reviewing data from a third-party source and analysing this data to present any insights you may uncover.
+
+# Strategies used :
+* Beautiful Soup for Webscrapping.
+* VADER, TextBlob and DistilBERT from hugging face was used for Sentiment Analysis.
+* Fine tuned DistilBERT Transformer from Hugging Face.
+
+# Insights :
+![](https://github.com/Swam80/BritishAirways_Internship/blob/main/Slide2.JPG)
