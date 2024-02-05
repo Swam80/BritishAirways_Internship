@@ -7,11 +7,13 @@
 * With your predictive model, it is important to interpret the results in order to understand how “predictive” the data really was and whether we can feasibly use it to predict the target outcome (customers buying holidays). Therefore, you should evaluate the model's performance and output how each variable contributes to the predictive model's power.
 
 # Dataset
-* Highly imbalanced dataset ![image](https://github.com/Swam80/BritishAirways_Internship/assets/42047546/51b73c78-3fbb-487f-8caf-6e2dcb79a536)
+* Highly imbalanced dataset
+* ![image](https://github.com/Swam80/BritishAirways_Internship/assets/42047546/51b73c78-3fbb-487f-8caf-6e2dcb79a536)
+* Used SMOTE to handle imbalance
 
 
 # Model Summary
 * ![](https://github.com/Swam80/BritishAirways_Internship/blob/main/Task%202/Predicitve%20Model%20Results.jpg)
 
 # Conclusion
-Model performance is poor,
+Model performance is poor, maybe a bit more balanced dataset would improve the performance.
