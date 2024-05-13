@@ -7,7 +7,7 @@
 * We hope this programme provides a great resource for you to upskill and strengthen your resume as you explore career options and a potential career at British Airways!
 
 # Tasks Performed
-* In task one, Customer Review Analysis and Sentiment Analysis was done by webscrapping reviews ![Task 1](https://github.com/Swam80/BritishAirways_Internship/tree/main/Task%201)
+* In task one, Customer Review Analysis and Sentiment Analysis was done by webscrapping reviews [Task 1](https://github.com/Swam80/BritishAirways_Internship/tree/main/Task%201)
 
 
 ## In task two, predictive modelling was performed to predict customer bookings.
